@@ -57,7 +57,7 @@
     "@unit-mesh/treesitter-artifacts": "^1.7.7",
     "chalk": "^5.3.0",
     "commander": "^12.1.0",
-    "diff": "^7.0.0",
+    "diff": "^8.0.3",
     "dotenv": "^16.4.5",
     "highlight.js": "^11.11.1",
     "ink": "^5.0.1",
